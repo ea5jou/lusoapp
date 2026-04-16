@@ -508,9 +508,9 @@
   "eventAfternoon": "Tarde",
   "eventWorkshops": "Talleres (sala paralela)",
   "eventAddChannel": "Añadir",
-  "eventChannelSheetTitle": "Canal MeshCore  #plano333",
+  "eventChannelSheetTitle": "Canal MeshCore  #plan333",
   "eventChannelSheetDesc": "Añade el canal a la radio conectada o consulta los datos manualmente.",
-  "eventChannelAdded": "Canal #plano333 añadido en ranura {slot}",
+  "eventChannelAdded": "Canal #plan333 añadido en ranura {slot}",
   "eventChannelNotFound": "Canal #techsummit2026 no encontrado en radio.",
   "eventChannelNoSlots": "Sin ranuras de canal disponibles para añadir #techsummit2026.",
 
@@ -541,7 +541,7 @@
   "plan333FormatQSL": "QSL (confirmación)",
   "plan333FormatQSLPhase": "Opcional 21:30–22:00",
   "plan333FormatQSLTemplate": "QSL, [Nombre estación recibida], [N] saltos, [local]\nEj: QSL, Daytona, 5 saltos, Tomar",
-  "plan333ConfigureChannel": "Configurar Canal MeshCore  (#plano333)",
+  "plan333ConfigureChannel": "Configurar Canal MeshCore  (#plan333)",
   "plan333Alerts": "Alertas Mesh 3-3-3",
   "plan333AlertToggle": "Recordatorio del evento de sábado",
   "plan333AlertDesc": "Alertas 10 y 5 min antes del Mesh 3-3-3 (Sábados 21:00)",
@@ -566,7 +566,7 @@
   "plan333AllSent": "✓  3 CQs enviados",
   "plan333ConfigureFirst": "Configura tus datos primero",
   "plan333RadioOff": "Radio apagada — no se puede enviar",
-  "plan333ChannelSheetTitle": "Canal MeshCore  #plano333",
+  "plan333ChannelSheetTitle": "Canal MeshCore  #plan333",
   "plan333ChannelSheetDesc": "Añade el canal a la radio conectada o consulta los datos manualmente.",
-  "plan333ChannelAdded": "Canal #plano333 añadido en ranura {slot}"
+  "plan333ChannelAdded": "Canal #plan333 añadido en ranura {slot}"
 }
